@@ -1,4 +1,4 @@
-package algoritmo.aula7;
+package algoritmo.aula7_EstruturaRepeticao_For;
 
 public class ContaDez {
 
