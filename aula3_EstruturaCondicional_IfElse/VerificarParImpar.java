@@ -1,4 +1,4 @@
-package algoritmo.aula3;
+package algoritmo.aula3_EstruturaCondicional_IfElse;
 
 import java.util.Scanner;
 
