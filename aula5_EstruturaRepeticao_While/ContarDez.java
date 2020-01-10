@@ -1,4 +1,4 @@
-package algoritmo.aula5;
+package algoritmo.aula5_EstruturaRepeticao_While;
 
 public class ContarDez {
 
