@@ -1,4 +1,4 @@
-package algoritmo.aula9;
+package algoritmo.aula9_Vetor;
 
 import java.util.Scanner;
 
