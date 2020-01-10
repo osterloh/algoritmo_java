@@ -1,4 +1,4 @@
-package algoritmo.aula8;
+package algoritmo.aula8_FuncaoRotina;
 
 import java.util.Scanner;
 
