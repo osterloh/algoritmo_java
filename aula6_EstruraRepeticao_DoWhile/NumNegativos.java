@@ -1,4 +1,4 @@
-package algoritmo.aula6;
+package algoritmo.aula6_EstruraRepeticao_DoWhile;
 
 import java.util.Scanner;
 
