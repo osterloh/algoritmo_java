@@ -1,4 +1,4 @@
-package algoritmo.aula1;
+package algoritmo.aula1_VariaveisInputOutput;
 
 public class Variavel {
 
