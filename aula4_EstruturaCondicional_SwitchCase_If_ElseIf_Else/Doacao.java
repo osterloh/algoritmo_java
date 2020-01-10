@@ -1,4 +1,4 @@
-package algoritmo.aula4;
+package algoritmo.aula4_EstruturaCondicional_SwitchCase_If_ElseIf_Else;
 
 import java.util.Scanner;
 
