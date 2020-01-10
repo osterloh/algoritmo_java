@@ -1,4 +1,4 @@
-package algoritmo.aula2;
+package algoritmo.aula2_OperadoresLogicosRelacionais;
 
 import java.util.Scanner;
 
